@@ -1,4 +1,4 @@
-# End-to-End-Machine-Learning-Project-Implementation
+# End-to-End-Machine-Learing-Project-Implementation
 
 
 ### Tool you have to install:-
